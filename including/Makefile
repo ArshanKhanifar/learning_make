@@ -1,3 +1,4 @@
+-include not_existing_file.mk
 include a.mk
 
 .phony main:
